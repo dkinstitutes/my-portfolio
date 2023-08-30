@@ -1267,8 +1267,7 @@ body.light hr.separator {
 
   body.home {
     padding: 25px;
-    background-color: #16fff3;
-    background-image: linear-gradient(#2534ff, rgb(4, 238, 187));
+    background-image: linear-gradient(#2534ff, rgb(0 79 255));
   }
 
   body.home .main-container {
